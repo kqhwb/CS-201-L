@@ -1,0 +1,19 @@
+﻿1>------ Build started: Project: Lab 3, Configuration: Debug Win32 ------
+1>Build started 6/25/2013 9:10:02 AM.
+1>InitializeBuildStatus:
+1>  Touching "Debug\Lab 3.unsuccessfulbuild".
+1>ClCompile:
+1>  main.cpp
+1>\\kc.umkc.edu\kc-users\home\k\kqhwb\my documents\visual studio 2010\projects\lab 3\lab 3\main.cpp(5): error C2084: function 'int main(void)' already has a body
+1>          \\kc.umkc.edu\kc-users\home\k\kqhwb\my documents\visual studio 2010\projects\lab 3\lab 3\bookinfo.h(45) : see previous definition of 'main'
+1>\\kc.umkc.edu\kc-users\home\k\kqhwb\my documents\visual studio 2010\projects\lab 3\lab 3\main.cpp(8): error C2065: 'fin' : undeclared identifier
+1>\\kc.umkc.edu\kc-users\home\k\kqhwb\my documents\visual studio 2010\projects\lab 3\lab 3\main.cpp(8): error C2228: left of '.eof' must have class/struct/union
+1>          type is ''unknown-type''
+1>\\kc.umkc.edu\kc-users\home\k\kqhwb\my documents\visual studio 2010\projects\lab 3\lab 3\main.cpp(8): fatal error C1903: unable to recover from previous error(s); stopping compilation
+1>  bookinfo.h
+1>  Generating Code...
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:03.35
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
